@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestCoordinatePoints</string>
+
+    <string name="main_count_hint">Введите количество точек</string>
+    <string name="main_go">Поехали</string>
+
+    <string name="error_something_went_wrong">Что-то пошло не так</string>
+    <string name="error_count">Введите число</string>
+</resources>
